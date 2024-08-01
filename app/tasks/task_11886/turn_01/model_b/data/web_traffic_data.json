@@ -1,0 +1,22 @@
+[
+  {
+    "method": "GET",
+    "url": "/index.html",
+    "headers": {
+      "User-Agent": "Mozilla/5.0"
+    },
+    "body": "",
+    "responseCode": 200,
+    "responseTime": 100
+  },
+  {
+    "method": "POST",
+    "url": "/login",
+    "headers": {
+      "User-Agent": "Mozilla/5.0"
+    },
+    "body": "{\"username\":\"admin\",\"password\":\"password\"}",
+    "responseCode": 200,
+    "responseTime": 200
+  }
+]
